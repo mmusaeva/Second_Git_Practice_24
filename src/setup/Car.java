@@ -2,9 +2,9 @@ package setup;
 
 public class Car {
 
-    // this is car class from master branch
+    // this is our car from James branch
 
-    // we wiil have conflict
+    // mote text
 
-   //  because there is different text
+    // more text
 }
